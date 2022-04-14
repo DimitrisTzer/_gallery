@@ -1,6 +1,6 @@
 ---
 author: Dimitristzer
-image_url: /images/ipod-shuffle.png
+image_url: /images/ipod-shuffle.jpg
 title: iPod Shuffle
 year: 2005
 caption: ' Το iPod Shuffle είναι μια ψηφιακή συσκευή αναπαραγωγής ήχου που έχει καταργηθεί , σχεδιασμένη και προηγουμένως στην αγορά από την Apple Inc. Ήταν το μικρότερο μοντέλο στην οικογένεια iPod της Apple και ήταν το πρώτο iPod που χρησιμοποίησε μνήμη flash.Το πρώτο μοντέλο ανακοινώθηκε στο Macworld Conference & Expo στις 11 Ιανουαρίου 2005. Το iPod Shuffle σταμάτησε να κυκλοφορεί από την Apple στις 27 Ιουλίου 2017. '
